@@ -1,16 +1,29 @@
 {
   "auto_complete_commit_on_tab": true,
-  "color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme",
-  "font_size": 13.0,
-  "hot_exit": false,
-  "ignored_packages":
-  [
-    "Vintage",
-    "alternative_autocompletion"
-  ],
-  "overlay_scroll_bars": "system",
-  "remember_open_files": false,
-  "tab_size": 2,
-  "translate_tabs_to_spaces": true,
-  "use_tab_stops": true
+	"color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme",
+	"font_size": 13.0,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage",
+		"alternative_autocompletion"
+	],
+	"overlay_scroll_bars": "system",
+	"remember_open_files": false,
+	"tab_size": 2,
+	"theme": "AppKit.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"use_tab_stops": true,
+	"highlight_line": true,
+	"bold_folder_labels": true,
+  "caret_style": "phase",
+  "wide_caret": true,
+	"ensure_newline_at_eof_on_save": true,
+  "trim_trailing_white_space_on_save": true,
+  "word_wrap": false,
+	"line_padding_bottom": 1,
+  "line_padding_top": 1,
+	"indent_guide_options": ["draw_active"],
+	"auto_complete": false,
+	"find_selected_text": true
 }

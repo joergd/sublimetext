@@ -1,29 +1,33 @@
 {
+	"auto_complete": false,
 	"auto_complete_commit_on_tab": true,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
 	"color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme",
-	"font_size": 13.0,
+	"ensure_newline_at_eof_on_save": true,
+	"find_selected_text": true,
+	"font_face": "Inconsolata",
+	"font_size": 14.0,
+	"highlight_line": true,
 	"hot_exit": false,
 	"ignored_packages":
-[
-	"Vintage",
-	"alternative_autocompletion"
-],
+	[
+		"Vintage",
+		"alternative_autocompletion"
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
 	"overlay_scroll_bars": "system",
 	"remember_open_files": false,
 	"tab_size": 2,
 	"theme": "AppKit.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"use_tab_stops": true,
-	"highlight_line": true,
-	"bold_folder_labels": true,
-	"caret_style": "phase",
-	"wide_caret": true,
-	"ensure_newline_at_eof_on_save": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": false,
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
-	"indent_guide_options": ["draw_active"],
-	"auto_complete": false,
-	"find_selected_text": true
+	"use_tab_stops": true,
+	"wide_caret": true,
+	"word_wrap": true
 }

@@ -1,0 +1,12 @@
+[
+
+//
+// MINI MAP
+//
+
+    {
+        "class": "minimap_control",
+        "viewport_color": [60, 69, 125, 80]
+    }
+
+]

@@ -14,5 +14,12 @@
     ]
   },
   { "keys": ["ctrl+shift+x"], "command": "tidy_xml" },
-  { "keys": ["ctrl+shift+j"], "command": "prettify_json" }
+  { "keys": ["ctrl+shift+j"], "command": "prettify_json" },
+
+  { "keys": ["super+f1"], "command": "show_arduino_menu" },
+  { "keys": ["super+alt+l"], "command": "compile_sketch" },
+  { "keys": ["super+alt+u"], "command": "upload_binary" }
+
 ]
+
+

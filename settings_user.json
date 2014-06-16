@@ -3,15 +3,16 @@
 	"auto_complete_commit_on_tab": true,
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme",
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.light.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"find_selected_text": true,
 	"font_face": "Inconsolata",
-	"font_size": 14.0,
+	"font_size": 20.0,
 	"highlight_line": true,
 	"hot_exit": false,
 	"ignored_packages":
 	[
+		"Theme - Spacegray",
 		"Vintage",
 		"alternative_autocompletion"
 	],
@@ -19,12 +20,11 @@
 	[
 		"draw_active"
 	],
-	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 	"overlay_scroll_bars": "system",
 	"remember_open_files": false,
 	"tab_size": 2,
-	"theme": "AppKit.sublime-theme",
+	"theme": "Spacegray Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,
